@@ -13,4 +13,4 @@ setTimeout(
   function(){
     window.location = redir
   },
-3000);
+1000);
